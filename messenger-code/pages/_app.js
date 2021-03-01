@@ -1,5 +1,3 @@
-import notAStore from "../public/notAStore";
-
 let React = require('React');
 import notAServer from '../public/notAServer';
 import InitAsUser from "./initAsUser";
