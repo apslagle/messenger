@@ -1,0 +1,18 @@
+.convo {
+    background-color: lightgrey;
+    width: 350px;
+}
+
+.convo p {
+    margin-top: -20px;
+}
+
+.user {
+    background-color: lightskyblue;
+    text-align: right;
+    width: 350px;
+}
+
+.user p {
+    margin-top: -20px;
+}
